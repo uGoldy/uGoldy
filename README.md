@@ -3,9 +3,9 @@
 
 ## I'm a Student, Developer and Substitute teacher!!
 
-- 🌱 I’m currently trying to learning everything so i can become a fullstack developer.
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to read and paint
+- 🚀 I’m currently trying to learning everything so i can become a fullstack developer.
+- 🗓 2021 Goals: Contribute more to Open Source projects
+- 🌟 Fun fact: I love to read and paint
 
 ### Connect with me:
 
