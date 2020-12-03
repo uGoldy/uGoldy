@@ -1,9 +1,9 @@
 ### Hi there, I'm Sondre Gullik Eikenæs - aka uGoldy👋
 
 
-## I'm a Student, Developer and Substitute teacher!!
+## I'm a student, developer and substitute teacher!
 
-- 🚀 I’m currently trying to learning everything so i can become a fullstack developer.
+- 🚀 I’m currently trying to learning everything so I can become a fullstack developer.
 - 🗓 2021 Goals: Contribute more to Open Source projects
 - 🌟 Fun fact: I love to read and paint
 
