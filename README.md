@@ -1,4 +1,4 @@
-### Hi there, I'm Sondre Gullik Eikneæs - aka [uGoldy]👋
+### Hi there, I'm Sondre Gullik Eikneæs - aka uGoldy👋
 
 
 ## I'm a Student, Developer and Substitute teacher!!
