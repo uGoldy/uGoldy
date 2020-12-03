@@ -9,8 +9,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="SGullik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Link to linkedIn - Sondre Gullik Eikenæs | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] Sondre gullik Eikenæs
+<br />
 
+<img align="left" alt="Link to Gmail | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gmail_Icon.svg/1280px-Gmail_Icon.svg.png" /> sondregullik@gmail.com
 
 <br />
 
@@ -29,10 +31,17 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+
+### Languages and Tools i touched on / trying to learn:
+
+<img align="left" alt="Swift" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/1138px-Swift_logo.svg.png" />
+<img align="left" alt=".NET" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/600px-.NET_Logo.svg.png" />
+
+<br />
 <br />
 
 
 
 
-
+[mail]: sondregullik@gmail.com
 [linkedin]: https://linkedin.com/in/SGullik
