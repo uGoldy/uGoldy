@@ -1,10 +1,10 @@
 ### Hi there, I'm Sondre Gullik Eikenæs - aka uGoldy👋
 
 
-## I'm a student, developer and substitute teacher!
+## I'm a Engineer, Product Expertise for Sopra steria, developer and former substitute teacher!
 
 - 🚀 I’m currently trying to learning everything so I can become a fullstack developer.
-- 🗓 2021 Goals: Contribute more to Open Source projects
+- 🗓 2022 Goals: Contribute more to Open Source projects
 - 🌟 Fun fact: I love to read and paint
 
 ### Connect with me:
