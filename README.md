@@ -12,7 +12,7 @@
 [<img align="left" alt="Link to linkedIn - Sondre Gullik Eikenæs | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] Sondre Gullik Eikenæs
 <br />
 
-<img align="left" alt="Link to Gmail | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gmail_Icon.svg/1280px-Gmail_Icon.svg.png" /> sondregullik@gmail.com
+<img align="left" alt="Link to Gmail | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" /> sondregullik@gmail.com
 
 <br />
 
