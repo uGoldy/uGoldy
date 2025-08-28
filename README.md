@@ -34,8 +34,8 @@
 
 ### Languages and Tools I touched on / am trying to learn:
 
-<img align="left" alt="Swift" width="26px" src="https://seeklogo.com/images/S/swift-logo-E9182990F5-seeklogo.com.png" />
-<img align="left" alt=".NET" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/600px-.NET_Logo.svg.png" />
+<img align="left" alt="Swift" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/swift-15-logo-svg-vector.svg" />
+<img align="left" alt=".NET" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png" />
 
 <br />
 <br />
