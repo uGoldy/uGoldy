@@ -1,10 +1,10 @@
 ### Hi there, I'm Sondre Gullik Eikenæs - aka uGoldy👋
 
 
-## I'm a Engineer, Product Expertise for Sopra steria, developer and former substitute teacher!
+## I'm a Senior Engineer, Product Expertise for Sopra steria, developer and a former substitute teacher for Web Development!
 
 - 🚀 I’m currently trying to learning everything so I can become a fullstack developer.
-- 🗓 2022 Goals: Contribute more to Open Source projects
+- 🗓 2025 Goals: Publish a new app to App Store
 - 🌟 Fun fact: I love to read and paint
 
 ### Connect with me:
@@ -27,7 +27,7 @@
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/fluent-systems-filled/512/FFFFFF/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
@@ -36,6 +36,7 @@
 
 <img align="left" alt="Swift" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/swift-15-logo-svg-vector.svg" />
 <img align="left" alt=".NET" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png" />
+<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
 
 <br />
 <br />
