@@ -47,6 +47,7 @@ My focus ia on creating fun and useful solutions with great UX/UI in mind.
 <img align="left" alt="uGoldy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=uGoldy&count_private=true&show_icons=true&theme=tokyonight" />
 
 <br />
+<br />
 
 [mail]: sondregullik@gmail.com
 [linkedin]: https://linkedin.com/in/SGullik
