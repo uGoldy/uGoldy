@@ -1,9 +1,10 @@
 ### Hi there, I'm Sondre Gullik Eikenæs - aka uGoldy👋
 
 
-## I'm a Senior Engineer, Product Expertise for Sopra steria, developer and a former substitute teacher for Web Development!
+## I'm a Senior Engineer, Product Expertise for Sopra steria and iOS developer the side.
+My focus ia on creating fun and useful solutions with great UX/UI in mind.
 
-- 🚀 I’m currently trying to learning everything so I can become a fullstack developer.
+- 🚀 I’m currently trying to learning new skills so I can become a fullstack developer.
 - 🗓 2025 Goals: Publish a new app to App Store
 - 🌟 Fun fact: I love to read and paint
 
