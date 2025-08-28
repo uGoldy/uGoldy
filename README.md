@@ -39,11 +39,14 @@ My focus ia on creating fun and useful solutions with great UX/UI in mind.
 <img align="left" alt=".NET" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png" />
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
 
+
 <br />
 <br />
 
+<div>Github Stats</div>
+<img align="left" alt="uGoldy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=uGoldy&count_private=true&show_icons=true&theme=tokyonight" />
 
-
+<br />
 
 [mail]: sondregullik@gmail.com
 [linkedin]: https://linkedin.com/in/SGullik
