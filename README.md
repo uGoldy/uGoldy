@@ -10,7 +10,7 @@ My focus ia on creating fun and useful solutions with great UX/UI in mind.
 
 ### Connect with me:
 
-[<img align="left" alt="Link to linkedIn - Sondre Gullik Eikenæs | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] Sondre Gullik Eikenæs
+[<img align="left" alt="Link to linkedIn - Sondre Gullik Eikenæs | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />][linkedin] Sondre Gullik Eikenæs
 <br />
 
 <img align="left" alt="Link to Gmail | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" /> sondregullik@gmail.com
