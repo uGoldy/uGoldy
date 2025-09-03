@@ -7,7 +7,7 @@ My focus ia on creating fun and useful solutions with great UX/UI in mind.
 - 🚀 I’m currently trying to learning new skills and enhancing old ones.
 - 🗓 2025 Goals: Publish a new app to App Store
 
-### Languages and Tools:
+#### Languages and Tools:
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
@@ -28,16 +28,14 @@ My focus ia on creating fun and useful solutions with great UX/UI in mind.
 </p>
 
 
-### Languages and Tools I touched on / am trying to learn:
+#### Languages and Tools I touched on / am trying to learn:
 
 <img alt="Swift" src="https://img.shields.io/badge/-Swift-E34F26?&logo=SWIFT&logoColor=white" /> <img alt=".NET" src="https://img.shields.io/badge/-.NET-512bd4?&logo=dotnet&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/-Python-f7df1c?&logo=Python&logoColor=black" />
 
-### Connect with me:
+#### Need to get in connect with me?:
 
 [<img align="left" alt="Link to linkedIn - Sondre Gullik Eikenæs | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />][linkedin] Sondre Gullik Eikenæs
 <br />
-
-<img align="left" alt="Link to Gmail | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" /> sondregullik@gmail.com
 
 <br />
 <br />
@@ -48,5 +46,4 @@ My focus ia on creating fun and useful solutions with great UX/UI in mind.
 <br />
 <br />
 
-[mail]: sondregullik@gmail.com
 [linkedin]: https://linkedin.com/in/SGullik
