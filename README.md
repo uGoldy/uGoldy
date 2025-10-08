@@ -1,4 +1,5 @@
 ### Hi there, I'm Sondre Gullik Eikenæs - aka uGoldy👋
+
 ---
 
 I'm a Senior Engineer, Product Expertise for Sopra Steria.
@@ -8,6 +9,7 @@ My focus ia on creating fun and useful solutions with great UX/UI in mind.
 - 🗓 2025 Goals: Publish a new app to App Store
 
 #### Languages and Tools:
+
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
@@ -27,10 +29,9 @@ My focus ia on creating fun and useful solutions with great UX/UI in mind.
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-272525?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
-
 #### Languages and Tools I touched on / am trying to learn:
 
-<img alt="Swift" src="https://img.shields.io/badge/-Swift-E34F26?&logo=SWIFT&logoColor=white" /> <img alt=".NET" src="https://img.shields.io/badge/-.NET-512bd4?&logo=dotnet&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/-Python-f7df1c?&logo=Python&logoColor=black" />
+<img alt="Swift" src="https://img.shields.io/badge/-Swift-E34F26?&logo=SWIFT&logoColor=white" /> <img alt=".NET" src="https://img.shields.io/badge/-.NET-512bd4?&logo=dotnet&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/-Python-f7df1c?&logo=Python&logoColor=black" /> <img alt="Java" src="https://img.shields.io/badge/-Java-f89820?&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzODQgNTEyIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMjc3Ljc0IDMxMi45Yy05LjgtNi43LTIzLjQtMTIuNS0yMy40LTEyLjVzMjYuNyAxNC4xIDMzLjIgMzIuN2M2LjUgMTguNi0yNS4zIDQ5LjMtMjUuMyA0OS4zcy0yLjIsMS44LTIuNSA0Yy0uMiAyLjItLjUgMjAuNyAxNC45IDI5IDguNCA0LjQgMjUuNSAzLjEgNTkuOC0zMC4xQzM2Ny43IDM1NC4zIDM2Ni42IDMzMS4yIDI3Ny43NCAzMTIuOXoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMzk3IDM5MC42Yy05LjktMTcuNi0zNi40LTMwLjctNjEuNS0zMy4yLTI1LjEtMi41LTY1LjggNy43LTEwNy45IDI3LjgtMzQuNyAxNi41LTY5IDE5LjUtNjkgMTkuNXMxMTQgMTUgMTg1IDQ4QzM3MS45IDQ2My4zIDQwNi45IDQwOC4yIDM5NyAzOTAuNnoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJtMjg5IDc5LjhzLTg1IDI4LjYtODUgMTEyLjZjMCA1MC4zIDI4IDc4LjkgMjggNzguOXMtMzMuNC00NS41LTMzLjQtNzAuN0M1NC42IDEzNi41IDI4OSA3OS44IDI4OSA3OS44eiIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0xODkgNjJzMTQ2IDEyMyAxNDYgMjQ2Yy0yMC03MC04MS4xLTEzMi44LTE0Ni0xNzYuNy03NC4yLTUwLjItOTEuOS03OS43LTEwMy42LTEwMC4yQzc0IDIwLjEgMTg5IDYyIDE4OSA2MnoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMzc5IDI2MGMtNjggMC0xMzUgMTYtMTM1IDY1IDAgMTYgNiAzNyA3IDUyIDQgNTYgNDMgNzcgNzMgNzUgMzEtMiA5NS0xNyAxMDUtODEgMC0zNi0xNC01NS0yMC02Ni00Ni04OS0zMC0xMDgtMzAtMTA4eiIvPjwvc3ZnPg==" />
 
 #### Need to get in connect with me?:
 
